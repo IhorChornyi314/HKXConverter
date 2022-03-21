@@ -1,0 +1,18 @@
+{
+  "pointer_1": {"type": "Literal", "value": [0, 0, 0, 0, 0, 0, 0, 0]},
+  "pointer_2": {"type": "Literal", "value": [0, 0, 0, 0, 0, 0, 0, 0]},
+  "pointer_3": {"type": "Literal", "value": [0, 0, 0, 0, 0, 0, 0, 0]},
+  "pointer_4": {"type": "Literal", "value": [0, 0, 0, 0, 0, 0, 0, 0]},
+  "up_x": {"type": "Single"},
+  "up_y": {"type": "Single"},
+  "up_z": {"type": "Single"},
+  "up_w": {"type": "Single"},
+  "forward_x": {"type": "Single"},
+  "forward_y": {"type": "Single"},
+  "forward_z": {"type": "Single"},
+  "forward_w": {"type": "Single"},
+  "duration": {"type": "Single"},
+  "probably_padding": {"type": "Literal", "value": [0, 0, 0, 0]},
+  "frames_data": {"type": "HKArray", "data_type": "HKVector4"},
+  "end_padding": {"type": "Padding", "align": 16}
+}

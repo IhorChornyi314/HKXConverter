@@ -1,0 +1,12 @@
+{
+  "section_tag": {"type": "String", "length": 19},
+  "stop": {"type": "Literal", "value": "ff"},
+  "absolute_data_start": {"type": "Int", "size": 4},
+  "local_fixups_offset": {"type": "Int", "size": 4},
+  "global_fixups_offset": {"type": "Int", "size": 4},
+  "virtual_fixups_offset": {"type": "Int", "size": 4},
+  "exports_offset": {"type": "Int", "size": 4},
+  "imports_offset": {"type": "Int", "size": 4},
+  "end_offset": {"type": "Int", "size": 4},
+  "separator": {"type": "Literal", "value": "ffffffffffffffffffffffffffffffff"}
+}

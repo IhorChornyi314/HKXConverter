@@ -1,0 +1,6 @@
+{
+  "data_objects": {"type": "SectionData"},
+  "local_fixups": {"type": "SimpleArray", "data_type": "LocalFixup"},
+  "global_fixups": {"type": "SimpleArray", "data_type": "GlobalFixup"},
+  "virtual_fixups": {"type": "SimpleArray", "data_type": "VirtualFixup"}
+}

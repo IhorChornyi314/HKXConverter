@@ -1,0 +1,5 @@
+{
+  "src": {"type": "Int", "size": 4},
+  "section_index": {"type": "Int", "size": 4},
+  "name_offset": {"type": "Int", "size": 4}
+}

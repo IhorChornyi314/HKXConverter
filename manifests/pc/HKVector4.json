@@ -1,0 +1,6 @@
+{
+  "x" : {"type": "Single"},
+  "y" : {"type": "Single"},
+  "z" : {"type": "Single"},
+  "w" : {"type": "Single"}
+}

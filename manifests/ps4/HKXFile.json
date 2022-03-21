@@ -1,0 +1,9 @@
+{
+  "header": {"type": "HKXFileHeader"},
+  "classnames_section_header": {"type": "HKXSectionHeader", "section_name": "classnames"},
+  "types_section_header": {"type": "HKXSectionHeader", "section_name": "types"},
+  "data_section_header": {"type": "HKXSectionHeader", "section_name": "data"},
+  "classnames_section": {"type": "HKXClassnamesSection"},
+  "types_section": {"type": "HKXTypesSection"},
+  "data_section": {"type": "HKXDataSection"}
+}

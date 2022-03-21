@@ -1,0 +1,8 @@
+{
+  "pointer" : {"type": "Literal", "value": "0000000000000000"},
+  "data_size": {"type": "Int", "size": 4},
+  "flags": {"type": "Int", "size": 1},
+  "capacity": {"type": "Int", "size": 3},
+  "separator": {"type": "Literal", "value": "0000000000000000"},
+  "data": {"type": "SimpleArray", "data_type": "T"}
+}

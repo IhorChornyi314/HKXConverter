@@ -1,0 +1,4 @@
+{
+  "src": {"type": "Int", "size": 4},
+  "dst": {"type": "Int", "size": 4}
+}

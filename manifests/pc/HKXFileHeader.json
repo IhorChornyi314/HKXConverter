@@ -1,0 +1,18 @@
+{
+  "magic": {"type":  "Literal", "value":  "57e0e05710c0c010"},
+  "user_tag": {"type": "Int", "size": 4},
+  "version": {"type":  "Literal", "value":  "0b000000"},
+  "pointer_size": {"type": "Int", "size": 1},
+  "endian": {"type": "Int", "size": 1},
+  "padding_option": {"type": "Literal", "value": "00"},
+  "base_class": {"type": "Literal", "value": "01"},
+  "section_count": {"type": "Literal", "value": "03000000"},
+  "content_section_index": {"type": "Literal", "value": "02000000"},
+  "content_section_offset": {"type": "Literal", "value": "00000000"},
+  "contents_class_name_section_index": {"type": "Literal", "value": "00000000"},
+  "contents_class_name_section_offset": {"type": "Literal", "value": "4b000000"},
+  "contents_version_string": {"type": "Literal", "value": "686b5f323031342e312e302d723100ff"},
+  "header_flags": {"type": "Literal", "value": "00000000"},
+  "unknown": {"type": "Int", "size": 2},
+  "class_name_section_offset": {"type": "Int", "size": 2}
+}
